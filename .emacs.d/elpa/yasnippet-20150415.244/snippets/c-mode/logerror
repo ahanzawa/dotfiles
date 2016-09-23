@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: logerror
+# key: logerror
+# binding: direct-keybinding
+# --
+bbError("ERROR! : ${1:}\n");

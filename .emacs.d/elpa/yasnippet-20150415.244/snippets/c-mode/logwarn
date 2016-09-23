@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: logwarn
+# key: logwarn
+# binding: direct-keybinding
+# --
+bbWarn("WARNING! : ${1:message}\n", ${2:val});
